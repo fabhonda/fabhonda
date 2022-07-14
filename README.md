@@ -4,7 +4,7 @@
 - 🎓 Acadêmico de Licenciatura em Computação
 - 💻 Programador Competitivo no GAPA
 - 🎮 Desenvolvedor de Jogos no Ludus Lab
-- 💾 Designer Freelancer (Gráfico/UX/UI)
+- 💡 Pesquisador e  Desenvolvedor no ThinkTEd Lab
 ##
  <div>
   <a href="https://github.com/fabhonda">
