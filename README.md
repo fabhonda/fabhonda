@@ -2,9 +2,9 @@
 ##
 
 - 🎓 Acadêmico de Licenciatura em Computação
-- 💻 Programador Competitivo no GAPA
-- 🎮 Desenvolvedor de Jogos no Ludus Lab
 - 💡 Pesquisador e  Desenvolvedor no ThinkTEd Lab
+- 💻 Programador Competitivo no GAPA
+- 🎮 Desenvolvedor de Jogos
 ##
  <div>
   <a href="https://github.com/fabhonda">
