@@ -2,8 +2,7 @@
 ##
 
 - 🎓 Acadêmico de Licenciatura em Computação
-- 💡 Pesquisador e  Desenvolvedor no ThinkTEd Lab
-- 💻 Programador Competitivo no GAPA
+- 💡 Pesquisador e Desenvolvedor no ThinkTEd Lab
 - 🎮 Desenvolvedor de Jogos
 ##
  <div>
