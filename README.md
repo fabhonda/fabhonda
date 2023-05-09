@@ -1,8 +1,9 @@
 ### Olá 👋 Seja bem-vindo(a), sou o Fabrizio!
 ##
 
-- 🎓 Acadêmico de Licenciatura em Computação
+- 🎓 Graduado em Licenciatura em Computação pela UEA
 - 💡 Pesquisador e Desenvolvedor no ThinkTEd Lab
+- 💼 Bolsista de P&D no Callidus Academy
 - 🎮 Desenvolvedor de Jogos
 ##
  <div>
