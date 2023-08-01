@@ -4,7 +4,6 @@
 - 💻 Mestrando em Informática pelo PPGI/UFAM
 - 🎓 Graduado em Licenciatura em Computação pela UEA
 - 💡 Pesquisador e Desenvolvedor no ThinkTEd Lab
-- 💼 Bolsista de P&D no Callidus Academy
 - 🎮 Desenvolvedor de Jogos
 ##
  <div>
